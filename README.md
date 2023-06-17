@@ -1,2 +1,2 @@
-# notes-public
+# notes
 catch knowledge
