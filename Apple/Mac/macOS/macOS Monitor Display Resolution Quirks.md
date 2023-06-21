@@ -1,6 +1,11 @@
+---
+created: 2023-06-20
+updated: 2023-06-21
+---
+
 Many people have written a lot of things about how monitor display resolutions and UI scaling works with [[macOS]]. This comment from [r/mac](https://old.reddit.com/r/mac/comments/vtl7nk/is_4k_scaling_for_external_monitors_unbereable/if8mk1c/) perfectly describes the situation.
 
->The problem basically comes down to this. macOS supports only two sizes for its UI, "1x" and "2x" (with 1x typically being used for pre-Retina Macs and 2x being used for Retina Macs). Apple did this because when they went to Retina displays on Macs, they used displays that were exactly 2x the resolution in each dimension as their previous displays, so a 2x UI mode let them keep things the same physical size as before.
+>The problem basically comes down to this. macOS supports only two sizes for its UI, "1x" and "2x" (with 1x typically being used for pre-Retina [[Mac|Macs]] and 2x being used for Retina Macs). Apple did this because when they went to Retina displays on Macs, they used displays that were exactly 2x the resolution in each dimension as their previous displays, so a 2x UI mode let them keep things the same physical size as before.
 >
 >So, for instance, a 27" iMac display used to be 2560x1440. Now a 27" iMac or Studio Display is 5120x2880, and uses the 2x UI mode (so everything is the same physical size it was on the 1440p screens). So what happens if you get a 3840x2160 27" display?
 >
@@ -12,11 +17,11 @@ Many people have written a lot of things about how monitor display resolutions a
 
 I'll add a note about DPI/PPI:
 
-The macOS UI was originally designed to be displayed on monitors that were around 110ppi (pixels per inch). In the mid 2010s Apple released "retina" displays for their machines, doubling the PPI to ~220ppi, which were literally 2x the resolution in both horizontal el and vertical directions. A 2560*1440 iMac display was now 5120x2880.
+The [[macOS]] UI was originally designed to be displayed on monitors that were around 110ppi (pixels per inch). In the mid 2010s [[Apple]] released "retina" displays for their machines, doubling the PPI to ~220ppi, which were literally 2x the resolution in both horizontal el and vertical directions. A 2560*1440 iMac display was now 5120x2880.
 
 But because all of the UI was designed for the 110ppi displays, although they rendered content at full resolution, the UI was scaled to look like the older non-retina resolution. As a result everything looked sharper and had more clarity, but the UI wasn't tiny.
 
-Because macOS only supports either 110ppi or 220ppi displays properly, if you are using a display with a different ppi (eg a 27" 4K display has PPI of 163. Great for Windows, not great for macOS) you will likely need to use a scaled UI. This means there will be some performance impact - and the text/details won't be as crisp as they could be.[^1]
+Because [[macOS]] only supports either 110ppi or 220ppi displays properly, if you are using a display with a different ppi (eg a 27" 4K display has PPI of 163. Great for Windows, not great for macOS) you will likely need to use a scaled UI. This means there will be some performance impact - and the text/details won't be as crisp as they could be.[^1]
 
 Simple example:
 You have a 27" 4K (3840*2160) display. To get the best picture quality with proper UI size, you want to use the "Looks like 1440p" display setting. macOS will render your image at 5K resolution and then scale it all down by 1/2x to the 1440p resolution, and it will then scale this to the 4K resolution.

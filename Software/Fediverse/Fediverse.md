@@ -1,9 +1,9 @@
 ---
 created: 2023-06-20
-updated: 2023-06-20
+updated: 2023-06-21
 ---
 
-All about [[ActivityPub]], Mastodon, Pixelfed, PeerTube, etc...
+All about [[ActivityPub]], Mastodon, Lemmy, Pixelfed, PeerTube, BookWyrm, etc...
 
 ## Resources
 

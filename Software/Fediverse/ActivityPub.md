@@ -1,3 +1,7 @@
+---
+created: 2023-06-20
+updated: 2023-06-21
+---
 
 ActivitityPub is the main protocol that allows decentralized social networking applications communicate. These decentralized groups of social networking sites are commonly referred to as the [[Fediverse]].
 
