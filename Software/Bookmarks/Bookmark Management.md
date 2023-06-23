@@ -1,5 +1,6 @@
 ---
 created: 2023-06-20
+alias: bookmarks
 ---
 
 Some services for managing bookmarks
