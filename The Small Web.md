@@ -1,3 +1,7 @@
+---
+created: 2023-06-22
+---
+
 What is the small web?
 
 Via https://ar.al/2020/08/07/what-is-the-small-web/:
