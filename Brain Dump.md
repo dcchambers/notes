@@ -5,6 +5,9 @@ created: 2023-06-22
 Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to write down to come back to later.
 
 ---
+## 2023-06-27
+
+- https://saurabhs.org/advanced-macos-commands
 
 ## 2023-06-23
 
