@@ -11,6 +11,7 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 - https://codeberg.org/
 - Reddit push shift data dump: https://the-eye.eu/redarcs/
 - New Gloomhaven stuff: https://www.backerkit.com/c/cephalofair/gloomhaven 
+- https://fly.io/blog/we-raised-a-bunch-of-money/
 
 ## 2023-06-27
 
