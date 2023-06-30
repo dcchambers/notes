@@ -5,6 +5,29 @@ created: 2023-06-22
 Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to write down to come back to later.
 
 ---
+## 2023-06-30
+
+- _solipsistic_
+	- very self-centered or selfish
+- https://thestorygraph.com/
+- [https://joinbookwyrm.com/](https://joinbookwyrm.com/)
+- https://characterdesignreferences.com/art-of-animation-2/kikis-delivery-service
+- https://git-fork.com/
+
+## 2023-06-29
+
+- https://awk.dev/
+- https://webkit.org/
+- kagi
+	- https://kagi.com/
+	- https://blog.kagi.com/blog
+	- https://browser.kagi.com/
+- https://bastian.rieck.me/blog/posts/2023/writing_why/
+- https://temporal.io/
+- [Baldur's Gate 3 is releasing early - 8/3/2023](https://store.steampowered.com/news/app/1086940/view/3657534571513526776)
+- [Steam Summer Sale runs June 29 - July 13](https://store.steampowered.com/news/?emclan=103582791457287600&emgid=3682303734604033314)
+- https://en.wikipedia.org/wiki/Ted_Chiang
+
 ## 2023-06-28
 
 - https://wallhaven.cc/
