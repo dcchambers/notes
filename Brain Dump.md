@@ -5,6 +5,12 @@ created: 2023-06-22
 Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to write down to come back to later.
 
 ---
+
+## 2023-07-05
+
+- https://en.wikipedia.org/wiki/Glossary_of_golf
+- 
+
 ## 2023-07-04
 
 - [_Ligne Claire_](https://en.wikipedia.org/wiki/Ligne_claire)
