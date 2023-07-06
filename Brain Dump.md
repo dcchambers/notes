@@ -14,6 +14,8 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 - https://johnnydecimal.com/
 - https://passwordbits.com/salting-passwords/
 - https://blog.1password.com/cracking-challenge-update/
+- https://en.wikipedia.org/wiki/Dunbar%27s_number
+- https://amie.so/
 
 ## 2023-07-05
 
