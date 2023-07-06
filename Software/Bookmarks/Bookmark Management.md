@@ -23,3 +23,4 @@ Open Source/Self-Hosted
 - https://github.com/sissbruecker/linkding
 - https://github.com/xwmx/nb
 - Even more: https://github.com/topics/bookmark-manager
+- https://archivebox.io/

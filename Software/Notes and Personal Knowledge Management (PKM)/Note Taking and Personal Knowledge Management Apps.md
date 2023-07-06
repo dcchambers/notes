@@ -1,8 +1,9 @@
 ---
 created: 2023-06-22
+updated: 2023-07-06
 ---
 
-> [!info]
+> [!note]
 > These are all *desktop* (native or web) apps. Some may have mobile companion apps.
 
 ## Note-Taking
@@ -30,6 +31,8 @@ created: 2023-06-22
 
 Requirement: Need to be able to link between notes using [[wikilinks]] or something similar.
 
+- Joplin
+	- https://joplinapp.org/
 - Logseq
 	- https://logseq.com/
 - Loop
@@ -47,6 +50,7 @@ Requirement: Need to be able to link between notes using [[wikilinks]] or someth
 - Tana
 	- https://tana.inc/
 - Zettlr
+	- https://www.zettlr.com/
 
 ## Digital "Junk Drawers"
 

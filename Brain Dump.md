@@ -6,10 +6,18 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 ---
 
+## 2023-07-06
+
+- https://opencoreventures.com/
+- https://archivebox.io/ 
+- https://archive.org/details/lego-set-instructions
+- https://johnnydecimal.com/
+- https://passwordbits.com/salting-passwords/
+- https://blog.1password.com/cracking-challenge-update/
+
 ## 2023-07-05
 
 - https://en.wikipedia.org/wiki/Glossary_of_golf
-- 
 
 ## 2023-07-04
 
