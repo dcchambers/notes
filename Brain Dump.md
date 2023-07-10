@@ -6,6 +6,15 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 ---
 
+## 2023-07-09
+
+- https://www.aviator.co/
+- https://s3files.app/
+- https://news.ycombinator.com/item?id=36648325
+	- https://wiki.gg/
+	- https://breezewiki.com/
+- TODO - doc on wikis...
+
 ## 2023-07-06
 
 - https://opencoreventures.com/
