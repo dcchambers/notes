@@ -6,6 +6,11 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 ---
 
+## 2023-07-12
+
+- https://openstartup.tm/
+- https://astro.build/
+
 ## 2023-07-10
 
 - https://foragerchef.com/the-foragers-guide-to-shagbark-hickory-nuts/
@@ -13,7 +18,6 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 - https://modernistcuisine.com/books/modernist-bread/
 - https://modernistcuisine.com/books/modernist-pizza/
 - [James Beard Book Winners By Year](https://www.barnesandnoble.com/b/books/james-beard-foundation-awards/all-winners-by-year-james-beard-book-awards/_/N-29Z8q8Z1unr)
-- 
 
 ## 2023-07-09
 
