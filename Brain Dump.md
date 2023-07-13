@@ -6,6 +6,14 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 ---
 
+## 2023-07-13
+
+- Last day of 2023 [Steam Summer Sale](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=3682303734604033314)
+- [Obsidian Roadmap](https://obsidian.md/roadmap/)
+- [MacOS Icons through the years](https://www.macosicongallery.com/years/)
+	- Moved here: [[MacOS Icons]]
+- 
+
 ## 2023-07-12
 
 - https://openstartup.tm/
