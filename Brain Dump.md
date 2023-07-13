@@ -10,6 +10,9 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 - https://openstartup.tm/
 - https://astro.build/
+- https://freeleaguepublishing.com/en/games/the-one-ring/
+- https://degenesis.com/
+- 
 
 ## 2023-07-10
 
