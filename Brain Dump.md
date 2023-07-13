@@ -12,7 +12,6 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 - [Obsidian Roadmap](https://obsidian.md/roadmap/)
 - [MacOS Icons through the years](https://www.macosicongallery.com/years/)
 	- Moved here: [[MacOS Icons]]
-- 
 
 ## 2023-07-12
 
@@ -20,7 +19,6 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 - https://astro.build/
 - https://freeleaguepublishing.com/en/games/the-one-ring/
 - https://degenesis.com/
-- 
 
 ## 2023-07-10
 
