@@ -6,12 +6,32 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 ---
 
+## 2023-07-18
+
+- https://www.chubbiesshorts.com/
+
+## 2023-07-17
+
+- [Aperol Spritz](https://www.aperol.com/en-us/aperol-spritz-cocktail/)
+- https://www.adidas.com/us/stan_smith
+- https://dieworkwear.com/
+- [2nd Magazine (Japanese Menswear monthly)](https://club-2nd.com/)
+	- https://clutch-cafe.com/collections/2nd
+	- https://www.instagram.com/2nd_magazine/
+- https://huggingface.co/
+- https://civitai.com/
+- https://www.midjourney.com/
+
 ## 2023-07-13
 
 - Last day of 2023 [Steam Summer Sale](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=3682303734604033314)
+	- [x] Last minute purchases
 - [Obsidian Roadmap](https://obsidian.md/roadmap/)
 - [MacOS Icons through the years](https://www.macosicongallery.com/years/)
-	- Moved here: [[MacOS Icons]]
+	- [x] Moved here: [[MacOS Icons]]
+- https://culturedcode.com/things/
+	- [ ] Add a TODO App comparison page
+- https://talk.macpowerusers.com/t/how-to-track-books-to-read/29007
 
 ## 2023-07-12
 
@@ -19,6 +39,7 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 - https://astro.build/
 - https://freeleaguepublishing.com/en/games/the-one-ring/
 - https://degenesis.com/
+- 
 
 ## 2023-07-10
 
