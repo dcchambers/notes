@@ -6,9 +6,34 @@ Thoughts, Notes, [[Bookmark Management|bookmarks]], and Links that I want to wri
 
 ---
 
+## 2023-07-26
+
+- Coffee literature
+	- [Coffee People Zine](https://coffeepeople.org/)
+	- [Standart](https://standartmag.com/)
+- https://research.runwayml.com/gen2
+
+## 2023-07-21
+
+- www.foldnfly.com
+
+## 2023-07-20
+
+- https://www.devfestwi.com/
+	- Date: 2023-08-23
+
+## 2023-07-19 
+
+- https://tapbots.com/
+	- https://tapbots.com/ivory/mac/
+- https://corkmac.app/
+- https://www.notboring.software/
+
 ## 2023-07-18
 
 - https://www.chubbiesshorts.com/
+- https://ai.meta.com/llama/
+- http://letitridecoldbrew.com/
 
 ## 2023-07-17
 

@@ -26,6 +26,8 @@ updated: 2023-07-06
 	- https://www.onenote.com/
 - Standard Notes
 	- https://standardnotes.com/
+- UpNote
+	- https://getupnote.com/
 
 ## Personal Knowledge Management/Personal Wiki Apps
 
